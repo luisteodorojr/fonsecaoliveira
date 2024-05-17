@@ -19,7 +19,7 @@ const TeamFamilyLawyerComponent = () => {
             <div className="container">
                 <div className="row gy-4">
 
-                    <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+                    <div className="col-lg-12" data-aos="fade-up" data-aos-delay="100">
                         <div className="team-member d-flex align-items-start">
                             <div className="pic"><img src={ImageTeam2} className="img-fluid" alt="" /></div>
 
