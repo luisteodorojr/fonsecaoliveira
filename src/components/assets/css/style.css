@@ -1753,11 +1753,15 @@
   cursor: pointer;
 }
 
+  /*--------------------------------------------------------------
+  # Loading
+  --------------------------------------------------------------*/
+
 .loading-spinner-container {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* Altura total da tela */
+  height: 100vh; 
 }
 
 .loading-spinner {
