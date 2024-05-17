@@ -16,10 +16,10 @@ import AboutComponent from './AboutComponent.jsx';
 class Home extends Component {
     componentDidMount() {
         AOS.init({
-            offset: 200,
             duration: 600,
             easing: 'ease-in-out',
-            delay: 100,
+            once: true,
+            mirror: false
         });
 
         window.addEventListener('scroll', this.toggleScrolled);
