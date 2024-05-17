@@ -20,7 +20,7 @@ const FamilyLawyerComponent = () => {
 
     useEffect(() => {
         const tagManagerArgs = {
-            //gtmId: 'AW-11176479725'
+            gtmId: 'AW-11176479725'
         };
 
         TagManager.initialize(tagManagerArgs);
