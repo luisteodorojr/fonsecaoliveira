@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.427c1aa7.css",
-    "main.js": "/static/js/main.76b5b628.js",
-    "static/media/cta-bg.jpg": "/static/media/cta-bg.97ecf94c9683003ab662.jpg",
-    "static/media/team-2.jpg": "/static/media/team-2.724d5c4596885b5a8946.jpg",
-    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "static/media/office4.jpeg": "/static/media/office4.01a656b3fecfd1b701e1.jpeg",
-    "static/media/logo2.png": "/static/media/logo2.a867e169418c5dc8f11f.png",
-    "static/media/office1.jpeg": "/static/media/office1.b5c3c541b6ed4af0dc29.jpeg",
-    "static/media/office3.jpeg": "/static/media/office3.abd61c27985231fa9808.jpeg",
-    "static/media/team-3.jpg": "/static/media/team-3.5c7d8d0a9c714c5bd865.jpg",
-    "index.html": "/index.html",
-    "main.427c1aa7.css.map": "/static/css/main.427c1aa7.css.map",
-    "main.76b5b628.js.map": "/static/js/main.76b5b628.js.map"
+    "main.css": "/fonsecaoliveira/static/css/main.fc576201.css",
+    "main.js": "/fonsecaoliveira/static/js/main.dcb897db.js",
+    "static/media/cta-bg.jpg": "/fonsecaoliveira/static/media/cta-bg.97ecf94c9683003ab662.jpg",
+    "static/media/team-2.jpg": "/fonsecaoliveira/static/media/team-2.724d5c4596885b5a8946.jpg",
+    "static/media/bootstrap-icons.woff?": "/fonsecaoliveira/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/fonsecaoliveira/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/office4.jpeg": "/fonsecaoliveira/static/media/office4.01a656b3fecfd1b701e1.jpeg",
+    "static/media/logo2.png": "/fonsecaoliveira/static/media/logo2.a867e169418c5dc8f11f.png",
+    "static/media/office1.jpeg": "/fonsecaoliveira/static/media/office1.b5c3c541b6ed4af0dc29.jpeg",
+    "static/media/office3.jpeg": "/fonsecaoliveira/static/media/office3.abd61c27985231fa9808.jpeg",
+    "static/media/team-3.jpg": "/fonsecaoliveira/static/media/team-3.5c7d8d0a9c714c5bd865.jpg",
+    "index.html": "/fonsecaoliveira/index.html",
+    "main.fc576201.css.map": "/fonsecaoliveira/static/css/main.fc576201.css.map",
+    "main.dcb897db.js.map": "/fonsecaoliveira/static/js/main.dcb897db.js.map"
   },
   "entrypoints": [
-    "static/css/main.427c1aa7.css",
-    "static/js/main.76b5b628.js"
+    "static/css/main.fc576201.css",
+    "static/js/main.dcb897db.js"
   ]
 }
