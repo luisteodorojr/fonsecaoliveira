@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import ImageTeam2 from '../assets/img/team-2.jpg'
+import ImageTeam2 from '../assets/img/team-4.jpg'
 import ImageTeam3 from '../assets/img/team-3.jpg'
 
 const TeamComponent = () => {

@@ -13,10 +13,6 @@ const HeaderFamilyLawyerComponent = () => {
                     <nav id="navmenu" className="navmenu">
                         <ul>
                             <li><a href="/">Home</a></li>
-                            <li><a href="/">Áreas de Atuação</a></li>
-                            <li><a href="/">Sócios</a></li>
-                            <li><a className="nav-link scrollto" href="/">Whatsapp</a></li>
-                            <li><a href="/">Contato</a></li>
                         </ul>
                         <i className="mobile-nav-toggle d-xl-none bi bi-list"></i>
                     </nav>
