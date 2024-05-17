@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/fonsecaoliveira/static/css/main.fc576201.css",
-    "main.js": "/fonsecaoliveira/static/js/main.7dc29960.js",
+    "main.js": "/fonsecaoliveira/static/js/main.cfe82189.js",
     "static/media/cta-bg.jpg": "/fonsecaoliveira/static/media/cta-bg.97ecf94c9683003ab662.jpg",
-    "static/media/team-2.jpg": "/fonsecaoliveira/static/media/team-2.724d5c4596885b5a8946.jpg",
     "static/media/bootstrap-icons.woff?": "/fonsecaoliveira/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/team-4.jpg": "/fonsecaoliveira/static/media/team-4.fe917b86c07154a00dda.jpg",
     "static/media/bootstrap-icons.woff2?": "/fonsecaoliveira/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "static/media/office4.jpeg": "/fonsecaoliveira/static/media/office4.01a656b3fecfd1b701e1.jpeg",
     "static/media/logo2.png": "/fonsecaoliveira/static/media/logo2.a867e169418c5dc8f11f.png",
@@ -13,10 +13,10 @@
     "static/media/team-3.jpg": "/fonsecaoliveira/static/media/team-3.5c7d8d0a9c714c5bd865.jpg",
     "index.html": "/fonsecaoliveira/index.html",
     "main.fc576201.css.map": "/fonsecaoliveira/static/css/main.fc576201.css.map",
-    "main.7dc29960.js.map": "/fonsecaoliveira/static/js/main.7dc29960.js.map"
+    "main.cfe82189.js.map": "/fonsecaoliveira/static/js/main.cfe82189.js.map"
   },
   "entrypoints": [
     "static/css/main.fc576201.css",
-    "static/js/main.7dc29960.js"
+    "static/js/main.cfe82189.js"
   ]
 }
