@@ -63,7 +63,7 @@ const ContactComponent = () => {
                                 </div>
                             </div>
 
-                            <iframe title="Map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3774.6433605579623!2d-48.264686184621986!3d-18.902896412073158!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94a445bc387f2035%3A0x950293f9b27da6e6!2sAv.%20Ces%C3%A1rio%20Alvim%2C%202686%20-%20Nossa%20Sra.%20Aparecida%2C%20Uberl%C3%A2ndia%20-%20MG%2C%2038400-694%2C%20Brasil!5e0!3m2!1spt-BR!2sus!4v1678744224186!5m2!1spt-BR!2sus" frameborder="0" style={{ border: '0', width: '100%', height: '270px' }} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <iframe title="Map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3774.6433605579623!2d-48.264686184621986!3d-18.902896412073158!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94a445bc387f2035%3A0x950293f9b27da6e6!2sAv.%20Ces%C3%A1rio%20Alvim%2C%202686%20-%20Nossa%20Sra.%20Aparecida%2C%20Uberl%C3%A2ndia%20-%20MG%2C%2038400-694%2C%20Brasil!5e0!3m2!1spt-BR!2sus!4v1678744224186!5m2!1spt-BR!2sus" frameBorder="0" style={{ border: '0', width: '100%', height: '270px' }} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
 
@@ -105,3 +105,7 @@ const ContactComponent = () => {
 };
 
 export default ContactComponent;
+
+//smtp.locaweb.com.br
+//587
+//rafaela@fonsecaoliveira.com

@@ -1,8 +1,8 @@
 import React, { useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import ImageTeam2 from '../assets/img/team-4.jpg'
-import ImageTeam3 from '../assets/img/team-3.jpg'
+import ImageTeam2 from '../assets/img/team-6.jpeg'
+import ImageTeam3 from '../assets/img/team-5.jpeg'
 
 const TeamComponent = () => {
 
@@ -40,17 +40,17 @@ const TeamComponent = () => {
                         </div>
                     </div>
 
-                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-                        <div class="team-member d-flex align-items-start">
-                            <div class="pic"><img src={ImageTeam3} class="img-fluid" alt="" /></div>
-                            <div class="member-info">
+                    <div className="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+                        <div className="team-member d-flex align-items-start">
+                            <div className="pic"><img src={ImageTeam3} className="img-fluid" alt="" /></div>
+                            <div className="member-info">
                                 <h4>Wendell Oliveira</h4>
                                 <span>Sócio-fundador</span>
                                 <p>Sócio-fundador, advogado inscrito na OAB/MG sob o n° 162.301. Especialista em Direito do Trabalho pela PUC-MG, pós-graduando em Direito Tributário pelo IBET.
                                     Atua na área empresarial, com ampla experiência nas área cível e trabalhista.</p>
-                                <div class="social">
-                                    <a href="https://instagram.com/wendell.adv?igshid=YmMyMTA2M2Y="><i class="bi bi-instagram"></i></a>
-                                    <a href="https://www.linkedin.com/in/wendell-faria-a7834632"> <i class="bi bi-linkedin"></i> </a>
+                                <div className="social">
+                                    <a href="https://instagram.com/wendell.adv?igshid=YmMyMTA2M2Y="><i className="bi bi-instagram"></i></a>
+                                    <a href="https://www.linkedin.com/in/wendell-faria-a7834632"> <i className="bi bi-linkedin"></i> </a>
                                 </div>
                             </div>
                         </div>
