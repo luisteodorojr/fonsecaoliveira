@@ -7,6 +7,7 @@ import office2 from '../assets/img/office2.jpeg';
 import office5 from '../assets/img/office5.jpeg';
 import office7 from '../assets/img/office7.jpeg';
 import office9 from '../assets/img/office9.jpeg';
+import office6 from '../assets/img/office6.jpeg';
 
 const PortfolioComponent = () => {
     useEffect(() => {
@@ -36,7 +37,7 @@ const PortfolioComponent = () => {
                 spaceBetween: 20
               },
               992: {
-                slidesPerView: 4,
+                slidesPerView: 5,
                 spaceBetween: 20
               }
             }
@@ -65,6 +66,7 @@ const PortfolioComponent = () => {
                         <div className="swiper-slide"><a className="gallery-lightbox" href={office5}><img src={office5} className="img-fluid" alt="" /></a></div>
                         <div className="swiper-slide"><a className="gallery-lightbox" href={office7}><img src={office7} className="img-fluid" alt="" /></a></div>
                         <div className="swiper-slide"><a className="gallery-lightbox" href={office9}><img src={office9} className="img-fluid" alt="" /></a></div>
+                        <div className="swiper-slide"><a className="gallery-lightbox" href={office6}><img src={office6} className="img-fluid" alt="" /></a></div>
                     </div>
                     <div className="swiper-pagination"></div>
                 </div>
