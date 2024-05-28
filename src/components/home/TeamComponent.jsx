@@ -15,8 +15,9 @@ const TeamComponent = () => {
         <section id="team" className="team section">
             <div className="container section-title" data-aos="fade-up">
                 <h2>SÓCIOS</h2>
-                <p>O nosso compromisso em relação aos nossos clientes é garantir o respeito aos seus direitos, seguindo sempre
-                    uma conduta eficiente, cuidadosa e precisa.</p>
+                <p>O nosso compromisso em relação aos nossos clientes é garantir o respeito aos seus direitos,
+                     seguindo sempre uma conduta eficiente, cuidadosa e precisa.
+</p>
             </div>
             <div className="container">
                 <div className="row gy-4">
@@ -28,10 +29,10 @@ const TeamComponent = () => {
                             <div className="member-info">
                                 <h4>Rafaela Fonseca</h4>
                                 <span>Sócia-fundadora</span>
-                                <p> Sócia-fundadora, advogada inscrita na OAB/MG sob o n° 162.271. Atua nas áreas cível, consumidor,
-                                    família e sucessões há mais de 8 anos, nos estados de São Paulo, Minas Gerais, Paraná e Rio de
-                                    Janeiro.
-                                    Membro da Comissão de Família e Sucessões da OAB de Uberlândia-MG.</p>
+                                <p> Sócia-fundadora, advogada inscrita na OAB/MG sob o n° 162.271.
+                                     Expert nas áreas cível, consumidor, família e sucessões, atuando nessas áreas
+                                      há mais de 8 anos, nos estados de São Paulo, Minas Gerais, Paraná e Rio de Janeiro.
+                                       Pós-graduanda em Direito Tributário pelo IBET. Membro da Comissão de Família e Sucessões da OAB de Uberlândia-MG.</p>
                                 <div className="social">
                                     <a href="https://www.instagram.com/rafaelafonseca.adv/"><i className="bi bi-instagram"></i></a>
                                     <a href="https://www.linkedin.com/in/rafaelaalvesfonseca"> <i className="bi bi-linkedin"></i> </a>
@@ -46,8 +47,9 @@ const TeamComponent = () => {
                             <div className="member-info">
                                 <h4>Wendell Oliveira</h4>
                                 <span>Sócio-fundador</span>
-                                <p>Sócio-fundador, advogado inscrito na OAB/MG sob o n° 162.301. Especialista em Direito do Trabalho pela PUC-MG, pós-graduando em Direito Tributário pelo IBET.
-                                    Atua na área empresarial, com ampla experiência nas área cível e trabalhista.</p>
+                                <p>Sócio-fundador, advogado inscrito na OAB/MG sob o n° 162.301. Especialista em Direito
+                                     do Trabalho pela PUC-MG, pós-graduando em Direito Tributário pelo IBET. Atua na área empresarial,
+                                      com ampla experiência nas área cível e trabalhista.</p>
                                 <div className="social">
                                     <a href="https://instagram.com/wendell.adv?igshid=YmMyMTA2M2Y="><i className="bi bi-instagram"></i></a>
                                     <a href="https://www.linkedin.com/in/wendell-faria-a7834632"> <i className="bi bi-linkedin"></i> </a>

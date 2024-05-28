@@ -1,4 +1,6 @@
 import React from 'react';
+import 'bootstrap-icons/font/bootstrap-icons.css';
+import 'remixicon/fonts/remixicon.css';
 
 const ServiceComponent = () => {
     return (
@@ -7,9 +9,10 @@ const ServiceComponent = () => {
 
             <div className="container section-title" data-aos="fade-up">
                 <h2>ÁREAS DE ATUAÇÃO</h2>
-                <p>   O Escritório Fonseca Oliveira Advogados Associados é expert nas áreas cível, família, sucessões e consumidor. Ademais
-                    , é especialista na área de Direito do Trabalho. Buscamos sempre atingir o objetivo do cliente,
-                    tendo como diferencial um serviço completo e de qualidade desde o primeiro atendimento.
+                <p>O escritório Fonseca Oliveira Advogados Associados é expert nas áreas cível,
+                     família, sucessões e consumidor, e especialista na área trabalhista.
+                      Buscamos atingir o objetivo do cliente, tendo como diferencial um serviço completo,
+                       específico, individualizado e de qualidade desde o primeiro atendimento.
                 </p>
             </div>
 
@@ -21,12 +24,13 @@ const ServiceComponent = () => {
                         <div className="service-item position-relative">
                             <div className="icon"><i className="bi bi-building icon"></i></div>
                             <h4><a href="#services" className="stretched-link">DIREITO CIVIL</a></h4>
-                            <p><i className="ri-check-double-line"></i> Confecção e analises de contratos</p>
-                            <p><i className="ri-check-double-line"></i> Ação de cobrança</p>
-                            <p><i className="ri-check-double-line"></i> Execução</p>
-                            <p><i className="ri-check-double-line"></i> Busca e apreensão de bens</p>
-                            <p><i className="ri-check-double-line"></i> Indenizações</p>
-                            <p><i className="ri-check-double-line"></i> Ações de recuperação de crédito judicial e extrajudicial e etc.</p>
+                            <p><i className="bi bi-check-circle"></i> Confecção e analises de contratos</p>
+                            <p><i className="bi bi-check-circle"></i> Parecer verbal e escrito</p>
+                            <p><i className="bi bi-check-circle"></i> Ação de cobrança</p>
+                            <p><i className="bi bi-check-circle"></i> Execução</p>
+                            <p><i className="bi bi-check-circle"></i> Busca e apreensão de bens</p>
+                            <p><i className="bi bi-check-circle"></i> Indenização por dano moral e material</p>
+                            <p><i className="bi bi-check-circle"></i> Ações de recuperação de crédito judicial e extrajudicial</p>
                         </div>
                     </div>
 
@@ -34,23 +38,22 @@ const ServiceComponent = () => {
                         <div className="service-item position-relative">
                             <div className="icon"><i className="bi bi-shield-check icon"></i></div>
                             <h4><a href="#services" className="stretched-link">DIREITO DO CONSUMIDOR</a></h4>
-                            <p><i className="ri-check-double-line"></i> Contratos Consumeristas</p>
-                            <p><i className="ri-check-double-line"></i> Fraude em cartão de crédito</p>
-                            <p><i className="ri-check-double-line"></i> Boleto Fraudado</p>
-                            <p><i className="ri-check-double-line"></i> Negativação indevida do nome</p>
-                            <p><i className="ri-check-double-line"></i> Direito de Arrependimento</p>
-                            <p><i className="ri-check-double-line"></i> Extravio de bagagem</p>
-                            <p><i className="ri-check-double-line"></i> Atraso de voo</p>
-                            <p><i className="ri-check-double-line"></i> Cancelamento de voo</p>
-                            <p><i className="ri-check-double-line"></i> Overbooking</p>
-                            <p><i className="ri-check-double-line"></i> Danos por queda de energia</p>
-                            <p><i className="ri-check-double-line"></i> Encerramento de conta bancária</p>
-                            <p><i className="ri-check-double-line"></i> Atraso na entrega da obra</p>
-                            <p><i className="ri-check-double-line"></i> Corte indevido de água, luz ou internet</p>
-                            <p><i className="ri-check-double-line"></i> Protesto de dívida paga</p>
-                            <p><i className="ri-check-double-line"></i> Produto Defeituoso</p>
-                            <p><i className="ri-check-double-line"></i> Cláusulas Abusivas</p>
-                            <p><i className="ri-check-double-line"></i> Venda casada, etc.</p>
+                            <p><i className="bi bi-check-circle"></i> Contratos Consumeristas</p>
+                            <p><i className="bi bi-check-circle"></i> Fraude em cartão de crédito</p>
+                            <p><i className="bi bi-check-circle"></i> Boleto Fraudado</p>
+                            <p><i className="bi bi-check-circle"></i> Cobrança, negativação e protesto indevido</p>
+                            <p><i className="bi bi-check-circle"></i> Direito de Arrependimento</p>
+                            <p><i className="bi bi-check-circle"></i> Extravio de bagagem</p>
+                            <p><i className="bi bi-check-circle"></i> Atraso ou cancelamento de voo</p>
+                            <p><i className="bi bi-check-circle"></i> Overbooking</p>
+                            <p><i className="bi bi-check-circle"></i> Danos por queda de energia</p>
+                            <p><i className="bi bi-check-circle"></i> Encerramento de conta bancária</p>
+                            <p><i className="bi bi-check-circle"></i> Atraso na entrega da prestação do serviço</p>
+                            <p><i className="bi bi-check-circle"></i> Corte indevido de água, luz ou internet</p>
+                            <p><i className="bi bi-check-circle"></i> Protesto de dívida paga</p>
+                            <p><i className="bi bi-check-circle"></i> Produto Defeituoso</p>
+                            <p><i className="bi bi-check-circle"></i> Cláusulas Abusivas</p>
+                            <p><i className="bi bi-check-circle"></i> Venda casada</p>
                         </div>
                     </div>
 
@@ -58,22 +61,19 @@ const ServiceComponent = () => {
                         <div className="service-item position-relative">
                             <div className="icon"><i className="bi bi-people icon"></i></div>
                             <h4><a href="#services" className="stretched-link">FAMÍLIA E SUCESSÕES</a></h4>
-                            <p><i className="ri-check-double-line"></i> Divórcio</p>
-                            <p><i className="ri-check-double-line"></i> Reconhecimento e Dissolução de União Estável</p>
-                            <p><i className="ri-check-double-line"></i> Pensão Alimentícia</p>
-                            <p><i className="ri-check-double-line"></i> Execução de Alimentos</p>
-                            <p><i className="ri-check-double-line"></i> Exoneração de Alimentos</p>
-                            <p><i className="ri-check-double-line"></i> Revisional de Alimentos</p>
-                            <p><i className="ri-check-double-line"></i> Guarda</p>
-                            <p><i className="ri-check-double-line"></i> Adoção</p>
-                            <p><i className="ri-check-double-line"></i> Regulamentação de Visitas</p>
-                            <p><i className="ri-check-double-line"></i> Investigação e Negatória de Paternidade</p>
-                            <p><i className="ri-check-double-line"></i> Inventário</p>
-                            <p><i className="ri-check-double-line"></i> Testamento</p>
-                            <p><i className="ri-check-double-line"></i> Doação</p>
-                            <p><i className="ri-check-double-line"></i> Planejamento Sucessório</p>
-                            <p><i className="ri-check-double-line"></i> Retificação de Registro Civil</p>
-                            <p><i className="ri-check-double-line"></i> Pedido de Alvará, etc.</p>
+                            <p><i className="bi bi-check-circle"></i> Divórcio</p>
+                            <p><i className="bi bi-check-circle"></i> Reconhecimento e Dissolução de União Estável</p>
+                            <p><i className="bi bi-check-circle"></i> Pensão Alimentícia</p>
+                            <p><i className="bi bi-check-circle"></i> Execução de Alimentos</p>
+                            <p><i className="bi bi-check-circle"></i> Exoneração de Alimentos</p>
+                            <p><i className="bi bi-check-circle"></i> Revisional de Alimentos</p>
+                            <p><i className="bi bi-check-circle"></i> Guarda</p>
+                            <p><i className="bi bi-check-circle"></i> Regulamentação de Visitas</p>
+                            <p><i className="bi bi-check-circle"></i> Investigação e Negatória de Paternidade</p>
+                            <p><i className="bi bi-check-circle"></i> Inventário</p>
+                            <p><i className="bi bi-check-circle"></i> Planejamento Sucessório</p>
+                            <p><i className="bi bi-check-circle"></i> Retificação de Registro Civil</p>
+                            <p><i className="bi bi-check-circle"></i> Pedido de Alvará</p>
                         </div>
                     </div>
 
@@ -81,14 +81,15 @@ const ServiceComponent = () => {
                         <div className="service-item position-relative">
                             <div className="icon"><i className="bi bi-briefcase icon"></i></div>
                             <h4><a href="#services" className="stretched-link">DIREITO DO TRABALHO</a></h4>
-                            <p><i className="ri-check-double-line"></i> Reconhecimento de vínculo de emprego</p>
-                            <p><i className="ri-check-double-line"></i> Rescisão indireta, reversão de justa causa, etc.</p>
-                            <p><i className="ri-check-double-line"></i> Recebimento de horas extras, inclusive de intervalos</p>
-                            <p><i className="ri-check-double-line"></i> Pagamento de FGTS e outras verbas em atraso ou previstas em
-                                Convenções e Acordos Coletivos</p>
-                            <p><i className="ri-check-double-line"></i> Ações Indenizatórias</p>
-                            <p><i className="ri-check-double-line"></i> Ações para Servidores Públicos</p>
-                            <p><i className="ri-check-double-line"></i> Consultoria preventiva e elaboração de defesas</p>
+                            <p><i className="bi bi-check-circle"></i> Reconhecimento de vínculo de emprego</p>
+                            <p><i className="bi bi-check-circle"></i> Rescisão indireta</p>
+                            <p><i className="bi bi-check-circle"></i> Reversão de justa causa</p>
+
+                            <p><i className="bi bi-check-circle"></i> Recebimento de horas extras e intervalos</p>
+                            <p><i className="bi bi-check-circle"></i> Pagamento de FGTS e outras verbas em atraso ou previstas em Convenções e Acordos Coletivos</p>
+                            <p><i className="bi bi-check-circle"></i> Ações Indenizatórias</p>
+                            <p><i className="bi bi-check-circle"></i> Ações para Servidores Públicos</p>
+                            <p><i className="bi bi-check-circle"></i> Consultoria preventiva e elaboração de defesas</p>
                         </div>
                     </div>
 

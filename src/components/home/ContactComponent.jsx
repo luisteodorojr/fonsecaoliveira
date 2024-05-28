@@ -10,7 +10,7 @@ const ContactComponent = () => {
     const sendEmail = (e) => {
         e.preventDefault();
         setLoading(true);
-        emailjs.sendForm('service_8scuu6o', 'template_fdjbpuh', e.target, 'IlINj72qwGuU5FcPA')
+        emailjs.sendForm('service_8p83azw', 'template_95bm8f2', e.target, '1qSU_IY_4OzC_-tbK')
             .then((result) => {
                 setLoading(false);
                 console.log(result.text);
@@ -105,7 +105,3 @@ const ContactComponent = () => {
 };
 
 export default ContactComponent;
-
-//smtp.locaweb.com.br
-//587
-//rafaela@fonsecaoliveira.com
