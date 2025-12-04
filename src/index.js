@@ -6,13 +6,14 @@ import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.css';
 import Home from './components/home/Home';
 import FamilyLawyerComponent from './components/FamilyLawyer/FamilyLawyerComponent';
+
 const root = createRoot(document.getElementById('root'));
 
 root.render(
   <React.StrictMode>
-    <Router>
+    <Router basename="/fonsecaoliveira">
       <Routes>
-      <Route path="/" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/advogadodefamilia" element={<FamilyLawyerComponent />} />
       </Routes>
     </Router>
@@ -20,4 +21,5 @@ root.render(
 );
 
 reportWebVitals();
+
 

@@ -1,6 +1,6 @@
 {
   "name": "fonsecaoliveira",
-  "homepage": "http://luisteodoro.pythonanywhere.com",
+  "homepage": "https://luisteodorojr.github.io/fonsecaoliveira",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -51,6 +51,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.3.0"
   }
 }
